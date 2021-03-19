@@ -41,7 +41,9 @@ button_translate.addEventListener("click", clickEventHandler)
 
 
 
+// firebase, aws amplify
 
+// console--network--get and all requests      - fetch(url)  
 
 
 //google hack= document.body.style.backgroundColor = "green"
